@@ -4,6 +4,9 @@
 
 This week's Challenge requires I to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write.
 
+## what does this do?
+create a password
+
 ## User Story
 
 ```
@@ -30,6 +33,8 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+## Deploted link
 ```
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/122302309/213599014-ed0046f8-9959-4015-95b3-2edaf8c9ba4b.png)
 
