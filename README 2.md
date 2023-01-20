@@ -31,5 +31,5 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
-
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/122302309/213599014-ed0046f8-9959-4015-95b3-2edaf8c9ba4b.png)
 
