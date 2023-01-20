@@ -35,7 +35,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ```
-
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/122302309/213601379-c2002e2f-0b2d-451c-a34f-0cc5cc56225f.png)
 
 
 ```
